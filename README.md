@@ -11,10 +11,9 @@
 </pag>
 <br>
 🧰 &nbsp;Version Controll & Tools
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
- 
 <br>
-
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tomas-alonso-arias-632271358/" target="blank"><img align="center"
