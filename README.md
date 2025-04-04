@@ -9,7 +9,10 @@
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </div>
 </pag>
-
+<br>
+🧰 &nbsp;Version Controll & Tools
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ 
 <br>
 
 <h3 align="left">Connect with me:</h3>
