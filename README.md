@@ -1,6 +1,6 @@
 <h1 align="center">Tomas Alonso</h1>
 
- 🛠 &nbsp;Known technological tools
+ 🛠 &nbsp;Herramientas tecnológicas conocidas
 <pag>
 <div aling= "center">
  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
