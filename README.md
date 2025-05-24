@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas Alonso</h1>
+<h1 align="center">Tomas Alonso</h1>
 
  🛠 &nbsp;Known technological tools
 <pag>
@@ -10,11 +10,11 @@
 </div>
 </pag>
 <br>
-🧰 &nbsp;Version Controll & Tools
+🧰 &nbsp; Control de Versiones
 <br>
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tomas-alonso-arias-632271358/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
